@@ -2,7 +2,7 @@
 //  main.cpp
 //  QUADTREE
 //
-//  Created by ShimJaeHoon on 2017. 7. 27..
+//  Created by ShimJaeHoon on 2017. 2. 06..
 //  Copyright © 2017년 ShimJaeHoon. All rights reserved.
 //
 
